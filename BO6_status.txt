@@ -1,1 +1,2 @@
 LOUD CHAIR,online,1.00.01,https://cdn.discordapp.com/attachments/1248284632030642211/1304863313888546867/ldr_RMTo.exe?ex=6730f029&is=672f9ea9&hm=d0ca43ae7eaced2f0b9b61671da0c6bad299bb7a552802739ee5b7d597e08fcd&
+SILENT CHAIR,online,1.00.01,https://cdn.discordapp.com/attachments/1248284632030642211/1304867011762851894/blops.exe?ex=6730f39a&is=672fa21a&hm=a8c9cb7b0d61cab31bb744a8bfada31b35a0fcafe2410554cfe1dcd533d3e49b&
