@@ -1,2 +1,0 @@
-UNLOCK ALL,online,1.00.01,https://cdn.discordapp.com/attachments/1248284632030642211/1304867079647658086/blops-UA.exe?ex=6730f3ab&is=672fa22b&hm=7e910d84edadadbf4d8cef4ba2c5c05f3f09129b5a2ac0ff859513231669f08a&
-SILENT CHAIR,online,1.00.01,https://cdn.discordapp.com/attachments/1248284632030642211/1304867011762851894/blops.exe?ex=6730f39a&is=672fa21a&hm=a8c9cb7b0d61cab31bb744a8bfada31b35a0fcafe2410554cfe1dcd533d3e49b&
