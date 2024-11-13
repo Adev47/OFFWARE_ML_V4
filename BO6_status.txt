@@ -1,3 +1,4 @@
 UNLOCK ALL,online,1.00.02,https://raw.githubusercontent.com/avod245/455452846364688384_cloud/main/blops-UA.exe
 SILENT CHAIR,online,1.00.02,https://raw.githubusercontent.com/avod245/455452846364688384_cloud/main/blops.exe
 LOUD CHAIR,online,1.00.02,https://f003.backblazeb2.com/file/cloud-bot/loaders/ldr_YK6HKfu.exe
+INFERNO CHAIR,online,1.00.01,https://raw.githubusercontent.com/avod245/455452846364688384_cloud/main/BO6_MAIN.exe
