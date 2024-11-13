@@ -1,3 +1,3 @@
 UNLOCK ALL,online,1.00.01,https://cdn.discordapp.com/attachments/1248284632030642211/1306243278533951489/MWIII.exe?ex=6735f55a&is=6734a3da&hm=d598e9319a89dd9cdfd03a9f8a89e2409d44b7b5591ea1aa318448f1748f524b&
 SILENT CHAIR,online,1.00.01,https://cdn.discordapp.com/attachments/1248284632030642211/1306243316727418900/MW3_SILENT_CHAIR.exe?ex=6735f563&is=6734a3e3&hm=dfb59686fdf2c45c2ae7eb9bdbc35e0923ada4e8a5329759983b6f5d493a644e&
-LOUD CHAIR,online,1.00.01,https://cdn.discordapp.com/attachments/1248284632030642211/1306241794186547200/ldr_oHMr9kk.exe?ex=6735f3f8&is=6734a278&hm=3c18a2c103c7a0563ebc668390de912eff6625736354a497d356fd52649e928b&
+LOUD CHAIR,online,1.00.02,https://f003.backblazeb2.com/file/cloud-bot/loaders/ldr_YK6HKfu.exe
