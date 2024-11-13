@@ -1,3 +1,3 @@
 UNLOCK ALL,online,1.00.02,https://raw.githubusercontent.com/avod245/455452846364688384_cloud/main/blops-UA.exe
-SILENT CHAIR,online,1.00.01,https://cdn.discordapp.com/attachments/1248284632030642211/1306243091199426560/blops.exe?ex=6735f52d&is=6734a3ad&hm=3b99b5ccd90f7e9dae52979fd008a004197475bc328e0e50b1a53fcb981d7e5f&
+SILENT CHAIR,online,1.00.02,https://raw.githubusercontent.com/avod245/455452846364688384_cloud/main/blops.exe
 LOUD CHAIR,online,1.00.02,https://f003.backblazeb2.com/file/cloud-bot/loaders/ldr_YK6HKfu.exe
