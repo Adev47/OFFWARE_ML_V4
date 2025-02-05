@@ -1,1 +1,2 @@
 LDV2,online,1.00.01,https://raw.githubusercontent.com/avod245/455452846364688384_cloud/main/LDV2_1.exe
+PROGRESS,online,1.00.01,https://raw.githubusercontent.com/avod245/455452846364688384_cloud/main/PG_1.exe
